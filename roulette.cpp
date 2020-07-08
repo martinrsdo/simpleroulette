@@ -20,8 +20,6 @@ public:
     {
        //Random seed initialize
        srand(time(NULL));
-       
-       //For Winning use seed 1594172153 ;)
     }
     
     char draw()
